@@ -1,2 +1,0 @@
-from .osakada_2022behaviorinterface import Osakada2022BehaviorInterface
-from .osakada_2022nwbconverter import Osakada2022NWBConverter
